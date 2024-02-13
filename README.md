@@ -34,5 +34,5 @@
 <ol>
 <li>Clone this repository to your local machine.</li>
 <li>Open a terminal or command prompt and navigate to the project directory.</li>
-<li>Run the Bank Management System.py file using Python.</li>
+<li>Run the <fcode>Bank Management System.py</code> file using Python.</li>
 </ol>
