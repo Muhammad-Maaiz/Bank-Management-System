@@ -14,7 +14,7 @@
 <h2>Instructions</h2>
 <p>To utilize the Bank Management System, follow these instructions:</p>
 <ol>
-    <li>Run the Program: Execute the <code>bank_management_system.py</code> file to initiate the application.</li>
+    <li>Run the Program: Execute the <code>Bank Management System.py</code> file to initiate the application.</li>
     <li><strong>User Options:</strong></li>
     <ul>
         <li>Check Balance: View the current account balance.</li>
@@ -34,5 +34,5 @@
 <ol>
 <li>Clone this repository to your local machine.</li>
 <li>Open a terminal or command prompt and navigate to the project directory.</li>
-<li>Run the <fcode>Bank Management System.py</code> file using Python.</li>
+<li>Run the <code>Bank Management System.py</code> file using Python.</li>
 </ol>
