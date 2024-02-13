@@ -3,12 +3,12 @@
 
 <h2>Features</h2>
 <ul>
-    <li>Secure Authentication: Users authenticate themselves by entering a four-digit password, ensuring account security.</li>
-    <li>Balance Inquiry: Users can check their current account balance with ease.</li>
-    <li>Deposit Functionality: Making deposits is straightforward, allowing users to increase their account balances seamlessly.</li>
-    <li>Withdrawal Capability: Users can withdraw funds from their accounts, provided they have sufficient balance, ensuring easy access to funds.</li>
-    <li>User-Friendly Interface: The system provides clear and concise menu options, making it simple for users to navigate and perform desired actions.</li>
-    <li>Graceful Termination: Users can exit the system gracefully at any time, ensuring a smooth user experience.</li>
+    <li><strong>Secure Authentication:<strong> Users authenticate themselves by entering a four-digit password, ensuring account security.</li>
+    <li><strong>Balance Inquiry:<strong> Users can check their current account balance with ease.</li>
+    <li><strong>Deposit Functionality:<strong> Making deposits is straightforward, allowing users to increase their account balances seamlessly.</li>
+    <li><strong>Withdrawal Capability:<strong> Users can withdraw funds from their accounts, provided they have sufficient balance, ensuring easy access to funds.</li>
+    <li><strong>User-Friendly Interface:<strong> The system provides clear and concise menu options, making it simple for users to navigate and perform desired actions.</li>
+    <li>G<strong>raceful Termination:<strong> Users can exit the system gracefully at any time, ensuring a smooth user experience.</li>
 </ul>
 
 <h2>Instructions</h2>
